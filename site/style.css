@@ -14,3 +14,12 @@ p {
 input {
     background-color: green;
 }
+
+/* p {
+    box-sizing: border-box;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 20px;
+    width: 300px;
+    background-color: blue;
+} */
