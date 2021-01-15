@@ -1,7 +1,16 @@
-p ~ span {
-    color: green;
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+h1 {
+    background-color: grey;
 }
 
-p > span {
-    color: green;
+p {
+    background-color: blue;
+}
+
+input {
+    background-color: green;
 }
